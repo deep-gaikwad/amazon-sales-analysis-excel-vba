@@ -1,0 +1,49 @@
+Step-by-Step Guide: Amazon Sales Dashboard (Master Prompt → VBA → Excel)
+
+Step 1: Open the Master Prompt File
+Open the Word document (or text file) that contains the Master Prompt for the Amazon Sales Analytics Dashboard.
+Select the entire prompt text and copy it (Ctrl + C).
+
+Step 2: Paste the Master Prompt into Claude
+Open Claude (claude.ai or the app).
+Paste the copied Master Prompt into the chat box (Ctrl + V).
+Send the message.
+
+Step 3: Claude Generates the VBA Code
+Claude will read the Master Prompt and generate the complete VBA code for the dashboard.
+Copy the entire VBA code block from Claude's response (click the copy icon or select all and Ctrl + C).
+
+Step 4: Prepare Your Excel File
+Open Microsoft Excel.
+Create or open the workbook that contains your sales data.
+Rename (or create) the data sheet to exactly: Amazon_Sales_2026
+In Row 1, make sure these column headers exist (order doesn't matter):
+Order ID, Order Date, Region, Category, Net Sales, Payment Method, Order Status, Sales Target, Profit
+Fill in your data starting from Row 2.
+
+Step 5: Open the VBA Editor and Paste the Code
+Press Alt + F11 to open the VBA Editor.
+In the left panel, right-click on your workbook name → Insert → Module.
+A blank white code window will open.
+Paste the VBA code you copied from Claude (Ctrl + V).
+Close the VBA Editor (click the ❌ in the top-right corner).
+
+Step 6: Run the Dashboard Macro
+Back in Excel, press Alt + F8.
+A "Macro" window will appear — select BuildAmazonSalesDashboard from the list.
+Click Run.
+Watch the status bar at the bottom — it will show live progress messages.
+Wait for the popup: "Dashboard Created Successfully".
+A new sheet named "Dashboard" will appear with KPI cards, charts, and slicers.
+
+Step 7: Save the Excel File in .xlsm Format
+Press Ctrl + S.
+If prompted "Do you want to keep this format?" → choose "No", then:
+Go to File → Save As
+Choose Save as type: Excel Macro-Enabled Workbook (*.xlsm)
+Click Save.
+
+⚠️ Important: If you save as a normal .xlsx, the VBA code will be deleted automatically — always use .xlsm.
+Quick Troubleshooting
+Macro doesn't run / security warning appears → Go to File → Options → Trust Center → Trust Center Settings → Macro Settings → Enable All Macros.
+Sheet name error → The macro will show a popup telling you which sheets exist; rename your data sheet to match, or type the correct name as instructed.
