@@ -300,10 +300,25 @@ An AI-assisted Amazon Sales Analysis Dashboard developed using Microsoft Excel a
 
 --- 
 
-👨‍💻 Created By
+## 👨‍💻 Created By
 
 Deep Gaikwad
 
 Aspiring Data Analyst
 
-Skills: Excel | SQL | Python | Power BI | Data Analysis | VBA
+🔗 GitHub: https://github.com/deep-gaikwad
+
+🔗 LinkedIn: https://www.linkedin.com/in/deepgaikwad/
+
+---
+
+**Skills:**  
+Excel | SQL | Python | Power BI | Data Analysis
+
+---
+
+## ⭐ Conclusion
+
+Thank you for visiting this project! ⭐
+
+⭐ If you find this project useful, feel free to star the repository!
