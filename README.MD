@@ -50,6 +50,17 @@ This project provides a centralized dashboard to help users:
 - **Claude AI**
 
 ---
+## 🖼️ Dashboard Preview
+
+### Amazon Sales Dashboard
+
+![Amazon Sales Dashboard](Images/Amazon_Dashboard.png)
+
+### Amazon Sales Analysis
+
+![Amazon Sales Analysis](Images/Amazon_Sales_Analysis.png)
+
+---
 
 ## 🤖 AI-Assisted VBA Development
 
