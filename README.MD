@@ -228,29 +228,6 @@ README.md				Project documentation
 
 ---
 
-## 🔄 Project Workflow
-
-```text
-Amazon Sales Dataset
-        ↓
-Data Preparation
-        ↓
-Business Requirements
-        ↓
-Master Prompt
-        ↓
-Claude AI
-        ↓
-VBA Code Generation
-        ↓
-Excel VBA Automation
-        ↓
-Interactive Dashboard
-        ↓
-Business Analysis & Insights
-
----
-
 ##  📚 Learning Outcomes
 
 This project demonstrates practical knowledge of:
